@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "courseName": "React Js",
+        "teacherName": "Nazmul",
+        "email": "abc@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-1.png"
+    },
+    {
+        "id": 2,
+        "courseName": "C#",
+        "teacherName": "Hasan",
+        "email": "xyz@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-2.png"
+    },
+    {
+        "id": 3,
+        "courseName": "Angular",
+        "teacherName": "Sujan",
+        "email": "ss@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-3.png"
+    },
+    {
+        "id": 4,
+        "courseName": "Programming in C",
+        "teacherName": "Mamun",
+        "email": "mm@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-4.png"
+    },
+    {
+        "id": 5,
+        "courseName": "Word Press",
+        "teacherName": "Bret",
+        "email": "Sincere@april.biz",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-5.png"
+    },
+    {
+        "id": 6,
+        "courseName": "Joomla",
+        "teacherName": "Jamal",
+        "email": "jj@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-6.png"
+    },
+    {
+        "id": 7,
+        "courseName": "PHP",
+        "teacherName": "Palash",
+        "email": "pp@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-7.png"
+    },
+    {
+        "id": 8,
+        "courseName": "Laravel",
+        "teacherName": "Maruf",
+        "email": "mm@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-8.png"
+    },
+    {
+        "id": 9,
+        "courseName": "C++",
+        "teacherName": "Kamal",
+        "email": "kk@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-9.png"
+    },
+    {
+        "id": 10,
+        "courseName": "Ms Office",
+        "teacherName": "Mahadi",
+        "email": "mahadi@gmail.com",
+        "coursePrice": "10000",
+        "mobNum": "123",
+        "image": "../data/images/course-10.png"
+    }
+]
